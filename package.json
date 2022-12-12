@@ -1,0 +1,29 @@
+{
+    "name": "filter-xlf",
+    "version": "1.0.0",
+    "description": "Node commandline util to filter XLF files using XPath. Supports filtering on attribute values",
+    "main": "index.js",
+    "scripts": {
+        "start": "./node_modules/ts-node/dist/bin.js index.ts",
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/areijngoudt"
+    },
+    "keywords": [
+        "node",
+        "util",
+        "xlf"
+    ],
+    "author": "Ad Reijngoudt",
+    "license": "ISC",
+    "dependencies": {
+        "commander": "^9.4.1",
+        "ts-node": "^10.9.1",
+        "typescript": "^4.9.4"
+    },
+    "devDependencies": {
+        "@types/node": "^18.11.13"
+    }
+}
