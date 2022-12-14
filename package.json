@@ -2,10 +2,15 @@
     "name": "filter-xlf",
     "version": "1.0.0",
     "description": "Node commandline util to filter XLF files using XPath. Supports filtering on attribute values",
-    "main": "index.js",
+    "main": "filter-xlf.ts",
+    "bin": {
+        "filter-xlf": "filter-xlf.js"
+    },
     "scripts": {
-        "start": "./node_modules/ts-node/dist/bin.js index.ts",
-        "test": "test"
+        "start": "ts-node filter-xlf  -id !b3i -s ./src/assets/i18n/source.xlf -t ./src/assets/i18n/target.xlf",
+        "build": "tsc && cp package.json dist/package.json && cp README.md dist/README.md",
+        "test": "jest",
+        "jest": "jest"
     },
     "repository": {
         "type": "git",
@@ -20,10 +25,21 @@
     "license": "ISC",
     "dependencies": {
         "commander": "^9.4.1",
+        "fs-extra": "^11.1.0",
+        "lodash": "^4.17.21",
         "ts-node": "^10.9.1",
-        "typescript": "^4.9.4"
+        "typescript": "^4.9.4",
+        "xmldom": "^0.6.0",
+        "xpath": "^0.0.32"
     },
     "devDependencies": {
-        "@types/node": "^18.11.13"
+        "@types/fs-extra": "^9.0.13",
+        "@types/jest": "^29.2.4",
+        "@types/jsdom": "^20.0.1",
+        "@types/lodash": "^4.14.191",
+        "@types/node": "^18.11.13",
+        "@types/xmldom": "^0.1.31",
+        "jest": "^27.4.5",
+        "ts-jest": "^27.1.2"
     }
 }

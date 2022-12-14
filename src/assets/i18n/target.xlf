@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="b3i.fluid-lib.about-dialog.title" datatype="html">
+        <source>About <x id="INTERPOLATION" equiv-text="{{ config?.titl"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/about/widgets/about-dialog.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.about-dialog.version" datatype="html">
+        <source>Version:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/about/widgets/about-dialog.component.html</context>
+          <context context-type="linenumber">10,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.about-dialog.ui-build-number" datatype="html">
+        <source>UI build number:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/about/widgets/about-dialog.component.html</context>
+          <context context-type="linenumber">14,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.about-dialog.api-build-number" datatype="html">
+        <source>API build number:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/about/widgets/about-dialog.component.html</context>
+          <context context-type="linenumber">24,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.about-dialog.close-button" datatype="html">
+        <source> close </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/about/widgets/about-dialog.component.html</context>
+          <context context-type="linenumber">39,42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.title" datatype="html">
+        <source> Upload File
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-dialog.component.html</context>
+          <context context-type="linenumber">2,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.cancel-button" datatype="html">
+        <source> Cancel </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-dialog.component.html</context>
+          <context context-type="linenumber">22,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.upload-button" datatype="html">
+        <source> Upload </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-dialog.component.html</context>
+          <context context-type="linenumber">33,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.result-message" datatype="html">
+        <source>File(s) successfully uploaded to azure storage.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-dialog.component.ts</context>
+          <context context-type="linenumber">117,120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.confirm-title" datatype="html">
+        <source>Do you want to cancel the upload?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-dialog.component.ts</context>
+          <context context-type="linenumber">128,131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.message-text" datatype="html">
+        <source>Message text</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-form/large-files-upload-file-form.config.ts</context>
+          <context context-type="linenumber">30,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.select-files" datatype="html">
+        <source>Click here to select files. You can also drop files here.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-form/large-files-upload-file-form.config.ts</context>
+          <context context-type="linenumber">37,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.select-files-hint" datatype="html">
+        <source>'Maximum upload file size: 10GB</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-form/large-files-upload-file-form.config.ts</context>
+          <context context-type="linenumber">40,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.validation-message.required-files" datatype="html">
+        <source>This is required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-form/large-files-upload-file-form.config.ts</context>
+          <context context-type="linenumber">43,44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.validation-message.file-max-size" datatype="html">
+        <source>Unable to upload, the file is exceeding the maximum file size of 10GB</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-form/large-files-upload-file-form.config.ts</context>
+          <context context-type="linenumber">44,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-name.download-button-title" datatype="html">
+        <source>Download file</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-name/large-file-name.component.html</context>
+          <context context-type="linenumber">12,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.preparing" datatype="html">
+        <source> preparing... </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">13,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.done" datatype="html">
+        <source> done </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">23,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.cancelled" datatype="html">
+        <source> cancelled </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">30,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.failed" datatype="html">
+        <source> failed </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">37,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.close-button-title" datatype="html">
+        <source>Cancel upload</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">61,67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.close-button" datatype="html">
+        <source>close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">63,67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.pinnable-table-column-header.toggle-pin-button" datatype="html">
+        <source>Pin or unpin this column</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/pinnable-table-column-header/pinnable-table-column-header.component.html</context>
+          <context context-type="linenumber">9,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.state-change-record-overview.submitted-on" datatype="html">
+        <source>Submitted on: </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/state-change-record-overview/state-change-record-overview.component.html</context>
+          <context context-type="linenumber">17,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.state-change-record-overview.submitted-by" datatype="html">
+        <source>Submitted by: </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/state-change-record-overview/state-change-record-overview.component.html</context>
+          <context context-type="linenumber">21,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.table-column-hiding.columns-button" datatype="html">
+        <source>Columns</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/table-column-hiding/table-column-hiding.component.html</context>
+          <context context-type="linenumber">4,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.table-column-hiding.column-hiding-header" datatype="html">
+        <source> Column Hiding </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/table-column-hiding/table-column-hiding.component.html</context>
+          <context context-type="linenumber">25,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.table-column-hiding.hide-all-button" datatype="html">
+        <source> Hide all </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/table-column-hiding/table-column-hiding.component.html</context>
+          <context context-type="linenumber">33,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.table-column-hiding.show-all-button" datatype="html">
+        <source> Show all </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/table-column-hiding/table-column-hiding.component.html</context>
+          <context context-type="linenumber">36,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.form-field.multi-select.filter" datatype="html">
+        <source>Filter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/b3i-forms/form-fields/multi-level-select-form-field/ngx-treeview/components/treeview/treeview.component.html</context>
+          <context context-type="linenumber">12,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.form-field.multi-select.no-items-found" datatype="html">
+        <source> No items found
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/b3i-forms/form-fields/multi-level-select-form-field/ngx-treeview/components/treeview/treeview.component.html</context>
+          <context context-type="linenumber">42,44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.confirm-dialog.yes" datatype="html">
+        <source>Yes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/confirm-dialog/confirm-dialog.component.ts</context>
+          <context context-type="linenumber">97,98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.confirm-dialog.no" datatype="html">
+        <source>No</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/confirm-dialog/confirm-dialog.component.ts</context>
+          <context context-type="linenumber">100,101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree-badge.updated" datatype="html">
+        <source>updated</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-badge/diff-tree-badge.component.ts</context>
+          <context context-type="linenumber">41,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree-badge.deleted" datatype="html">
+        <source>deleted</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-badge/diff-tree-badge.component.ts</context>
+          <context context-type="linenumber">43,45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree-badge.added" datatype="html">
+        <source>added</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-badge/diff-tree-badge.component.ts</context>
+          <context context-type="linenumber">45,47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree-badge.none" datatype="html">
+        <source>none</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-badge/diff-tree-badge.component.ts</context>
+          <context context-type="linenumber">47,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree.removed" datatype="html">
+        <source>Removed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-expanded-popup/diff-tree-expanded-popup.component.html</context>
+          <context context-type="linenumber">32,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree.added" datatype="html">
+        <source>Added</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-expanded-popup/diff-tree-expanded-popup.component.html</context>
+          <context context-type="linenumber">33,38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.filter-field.filter" datatype="html">
+        <source>Filter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/filter/filter-field.component.ts</context>
+          <context context-type="linenumber">37,42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.indicator-icon.pending-tasks" datatype="html">
+        <source>Pending tasks</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/indicator-icon/indicator-icon.component.ts</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.indicator-icon.unread-messages" datatype="html">
+        <source>Unread messages</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/indicator-icon/indicator-icon.component.ts</context>
+          <context context-type="linenumber">50,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.id-with-copy-to-clipboard.copy-id-to-clipboard" datatype="html">
+        <source>Copy id to clipboard</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/misc-widgets/id-with-copy-to-clipboard/id-with-copy-to-clipboard.component.html</context>
+          <context context-type="linenumber">19,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.id-with-copy-to-clipboard.id-is-copied" datatype="html">
+        <source>ID is copied</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/misc-widgets/id-with-copy-to-clipboard/id-with-copy-to-clipboard.component.ts</context>
+          <context context-type="linenumber">29,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.timezone.round-the-clock" datatype="html">
+        <source>Round the Clock</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/timezone/utils/timezone-utils.ts</context>
+          <context context-type="linenumber">10,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.duration-unit.days" datatype="html">
+        <source>Days</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/utils/duration-helper.ts</context>
+          <context context-type="linenumber">24,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.duration-unit.weeks" datatype="html">
+        <source>Weeks</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/utils/duration-helper.ts</context>
+          <context context-type="linenumber">26,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.duration-unit.months" datatype="html">
+        <source>Months</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/utils/duration-helper.ts</context>
+          <context context-type="linenumber">28,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.duration-unit.years" datatype="html">
+        <source>Years</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/utils/duration-helper.ts</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

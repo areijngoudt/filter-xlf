@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="binder.navbar.binder-details" datatype="html">
+        <source>Binder Details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/containers/binder-page-navigation-container/binder-page-navigation-container.config.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.navbar.audit-trail" datatype="html">
+        <source>Audit Trail</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/containers/binder-page-navigation-container/binder-page-navigation-container.config.ts</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.audit-trail.title" datatype="html">
+        <source>Binder</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/pages/binder-audit-trail-page/binder-audit-trail-page.component.ts</context>
+          <context context-type="linenumber">48,50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.audit-trail.timestamp" datatype="html">
+        <source>Timestamp</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/pages/binder-audit-trail-page/binder-audit-trail-page.config.ts</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.audit-trail.transaction-triggered-by" datatype="html">
+        <source>Transaction Triggered by</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/pages/binder-audit-trail-page/binder-audit-trail-page.config.ts</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.audit-trail.action" datatype="html">
+        <source>Action</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/pages/binder-audit-trail-page/binder-audit-trail-page.config.ts</context>
+          <context context-type="linenumber">14,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.audit-trail.status" datatype="html">
+        <source>Status</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/pages/binder-audit-trail-page/binder-audit-trail-page.config.ts</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.audit-trail.field" datatype="html">
+        <source>Field</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/pages/binder-audit-trail-page/binder-audit-trail-page.config.ts</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.audit-trail.previous-value" datatype="html">
+        <source>Previous Value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/pages/binder-audit-trail-page/binder-audit-trail-page.config.ts</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.audit-trail.current-value" datatype="html">
+        <source>Current Value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/pages/binder-audit-trail-page/binder-audit-trail-page.config.ts</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.landing.create-button" datatype="html">
+        <source> +Add a new Binder </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/pages/binder-landing-page/binder-landing-page.component.ts</context>
+          <context context-type="linenumber">39,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.title" datatype="html">
+        <source>Binder</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/components/pages/binder-maintain-page/binder-maintain-page.component.ts</context>
+          <context context-type="linenumber">35,37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-labels.ts</context>
+          <context context-type="linenumber">8,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.notification-message.binder-data-created-successfully" datatype="html">
+        <source>Binder data created successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/store/binder-lib.effects.ts</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.notification-message.binder-data-saved-successfully" datatype="html">
+        <source>Binder data saved successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/store/binder-lib.effects.ts</context>
+          <context context-type="linenumber">46,47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.notification-message.binder-data-submitted-successfully" datatype="html">
+        <source>Binder data submitted successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/store/binder-lib.effects.ts</context>
+          <context context-type="linenumber">57,58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.notification-message.binder-data-sent-back-to-negotiation-successfully" datatype="html">
+        <source>Binder data sent back to negotiation successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/store/binder-lib.effects.ts</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.notification-message.binder-data-signed-successfully" datatype="html">
+        <source>Binder data signed successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/store/binder-lib.effects.ts</context>
+          <context context-type="linenumber">79,80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.notification-message.binder-data-declined-successfully" datatype="html">
+        <source>Binder data declined successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/store/binder-lib.effects.ts</context>
+          <context context-type="linenumber">90,91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.notification-message.binder-duplicated-successfully" datatype="html">
+        <source>Binder duplicated successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/binder-lib/src/lib/store/binder-lib.effects.ts</context>
+          <context context-type="linenumber">104,105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.status-label" datatype="html">
+        <source>Status</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.created-at-label" datatype="html">
+        <source>Created At</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.last-modified-at-label" datatype="html">
+        <source>Last Modified At</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">5,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.submit-button" datatype="html">
+        <source>Submit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.cancel-button" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.delete-button" datatype="html">
+        <source>Delete</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.download-button" datatype="html">
+        <source>Download</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.close-button" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.duplicate-button-title" datatype="html">
+        <source>Duplicate</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">14,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.duplicate-column-header" datatype="html">
+        <source>Duplicate</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">17,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.no" datatype="html">
+        <source>No</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.yes" datatype="html">
+        <source>Yes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">21,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.discard-changes-default-dialog-title" datatype="html">
+        <source>Do you want to discard the changes you made?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.discard-default-changes-dialog-content" datatype="html">
+        <source>There are changes that have not yet been saved.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.info-popup-default-title" datatype="html">
+        <source>Action not permitted!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">26,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.info-popup-default-content" datatype="html">
+        <source>The action is not allowed if you have changes!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">27,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.info-popup-warning-title" datatype="html">
+        <source>Warning</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.info-popup-warning-content" datatype="html">
+        <source>Changes have been done and submitted on the current Operational Binder by another user, so if you have local changes they will be discarded. Please refresh your page and check the Audit trail for more details.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">29,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.ok-dialog-button" datatype="html">
+        <source>OK</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.cancel-dialog-button" datatype="html">
+        <source>No, Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">33,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.delete-dialog-button" datatype="html">
+        <source>Yes, Delete</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">34,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.remove-dialog-button" datatype="html">
+        <source>Yes, Remove</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.change-dialog-button" datatype="html">
+        <source>Yes, Change</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">36,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.terminate-dialog-button" datatype="html">
+        <source>Terminate</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">37,39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="form.loading-text" datatype="html">
+        <source>loading...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/i18n-form-labels/form-labels.ts</context>
+          <context context-type="linenumber">40,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.required" datatype="html">
+        <source>This is required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">76,77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.required-files" datatype="html">
+        <source>File required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">81,82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.email" datatype="html">
+        <source>Invalid email format</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">83,84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.iban" datatype="html">
+        <source>Invalid IBAN format</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">84,85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.unique-date" datatype="html">
+        <source>The two instalments cannot have same date. Please select a new date.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">85,86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.invalid-number" datatype="html">
+        <source>Please enter a valid number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">86,87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.format" datatype="html">
+        <source>Please enter a valid value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">87,88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.gross-min-deposit-premium" datatype="html">
+        <source>Gross Min deposit premium must be smaller or equal to Gross EPI</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">88,89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.min-date" datatype="html">
+        <source>The date cannot be in the past or before the Inception Date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">90,91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.max-date" datatype="html">
+        <source>The date should be on or before the expiration date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">91,92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.check-past-date" datatype="html">
+        <source>Date cannot be in the past</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">92,93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.check-date-after-another" datatype="html">
+        <source>This must be equal or after start date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">93,94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.check-terms-of-applicability" datatype="html">
+        <source>Both Terms of Applicability and Amount must be set</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">94,95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.check-is-date-before-or-after" datatype="html">
+        <source>Inception date must be between the Insurance Plan&apos;s start and end dates</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">95,96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.check-terms-of-applicability-amount" datatype="html">
+        <source>Both Terms of Applicability and Amount must be set</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/shared.module.ts</context>
+          <context context-type="linenumber">96,97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.whitespace" datatype="html">
+        <source>Text with only spaces is not allowed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/validation/core-validators.ts</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.alphanumeric" datatype="html">
+        <source>Only letters, numbers, dashes and spaces are allowed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/validation/core-validators.ts</context>
+          <context context-type="linenumber">34,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.alphabet" datatype="html">
+        <source>Only letters and spaces are allowed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/validation/core-validators.ts</context>
+          <context context-type="linenumber">48,49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.phone-number" datatype="html">
+        <source>Invalid Phone Number format</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/validation/core-validators.ts</context>
+          <context context-type="linenumber">62,63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.max-value" datatype="html">
+        <source>Value higher than <x id="PH" equiv-text="maxValue.required"/> is not allowed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/validation/form-validation-message.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.min-value" datatype="html">
+        <source>Value lower than <x id="PH" equiv-text="minValue.required"/> is  not allowed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/validation/form-validation-message.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.percentage" datatype="html">
+        <source>Percentage format can not have more than <x id="PH" equiv-text="percentageFormat.required"/> decimal places</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/validation/form-validation-message.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.equal-value" datatype="html">
+        <source>Remaining </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/validation/form-validation-message.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.max-length" datatype="html">
+        <source>This field cannot contain more than <x id="PH" equiv-text="maxLengthValue.requiredLength"/> characters but contains <x id="PH_1" equiv-text="maxLengthValue.actualLength"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/validation/form-validation-message.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validation-message.amount-different-value-value" datatype="html">
+        <source>Amount must be different than <x id="PH" equiv-text="equalValue"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/modules/shared/validation/form-validation-message.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hint.required-for-submit" datatype="html">
+        <source>Required for Submit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/types/hints.ts</context>
+          <context context-type="linenumber">1,2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hint.required-for-accept" datatype="html">
+        <source>Required for Accept</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/types/hints.ts</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hint.required-for-submit-and-accept" datatype="html">
+        <source>Required for Submit and Accept</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/types/hints.ts</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hint.required-for-issue" datatype="html">
+        <source>Required for Issue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/core-shared/src/lib/types/hints.ts</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.files.empty-list.header" datatype="html">
+        <source>You have not uploaded any files yet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/binder/binder-files-form/components/binder-files-form/binder-files-form-view/binder-files-form-view.component.ts</context>
+          <context context-type="linenumber">58,73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.files.empty-list.content" datatype="html">
+        <source>click on the upload file button to start uploading files</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/binder/binder-files-form/components/binder-files-form/binder-files-form-view/binder-files-form-view.component.ts</context>
+          <context context-type="linenumber">92,98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.files.for-operational-binder-button" datatype="html">
+        <source> For Operational Binder </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/binder/binder-files-form/components/binder-files-form/binder-files-form.component.ts</context>
+          <context context-type="linenumber">71,83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.files.for-policy-button" datatype="html">
+        <source> For Policy </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/binder/binder-files-form/components/binder-files-form/binder-files-form.component.ts</context>
+          <context context-type="linenumber">103,111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.files.upload-button" datatype="html">
+        <source> Upload files </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/binder/binder-files-form/components/binder-files-form/binder-files-form.component.ts</context>
+          <context context-type="linenumber">127,135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.files.for-operational-binder" datatype="html">
+        <source>Applicable for Operational Binder</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/binder/binder-files-form/components/binder-files-form/document-applies-to-display-map.types.ts</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.files.for-policy" datatype="html">
+        <source>Applicable for Policy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/binder/binder-files-form/components/binder-files-form/document-applies-to-display-map.types.ts</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.section.add-coverage-button" datatype="html">
+        <source> + Add Coverage </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/binder/binder-sections-form/components/presentational/binder-section-form-view/binder-section-form-view.component.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.title" datatype="html">
+        <source>General Info</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.sub-title" datatype="html">
+        <source>This section contains the general information about the operational binder</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.start-date" datatype="html">
+        <source>Start Date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.end-date" datatype="html">
+        <source>End Date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.sections" datatype="html">
+        <source>Sections</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.delete-section-title" datatype="html">
+        <source>Confirm Remove Section</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.delete-section-content" datatype="html">
+        <source>You are about to remove a section. All the associated coverages will also be removed. You can&apos;t undo this action. Do you wish to continue?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.binder-name" datatype="html">
+        <source>Binder Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.effective-period" datatype="html">
+        <source>Effective Period</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.operating-location" datatype="html">
+        <source>Operating Country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.reference-currency" datatype="html">
+        <source>Currency</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">14,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.policy-duration" datatype="html">
+        <source>Policy Duration [months]</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.insurance-types" datatype="html">
+        <source>Class of Business</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-general-information-labels.ts</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.plural-title" datatype="html">
+        <source>Binders</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-labels.ts</context>
+          <context context-type="linenumber">14,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.other-terms-and-conditions.title" datatype="html">
+        <source>Other Terms and Conditions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-labels.ts</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.other-terms-and-conditions.sub-title" datatype="html">
+        <source>Additional terms &amp; conditions if any</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-labels.ts</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.binder-documents-label" datatype="html">
+        <source>Binder Documents</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-labels.ts</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.policy-documents-label" datatype="html">
+        <source>Policy Documents</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/binder-labels.ts</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.coverage.coverage-terms-of-applicability" datatype="html">
+        <source>Terms of Applicability</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/coverage-labels.ts</context>
+          <context context-type="linenumber">1,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.coverage.title" datatype="html">
+        <source>Section Coverages</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/coverage-labels.ts</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.coverage.coverage-limit-title" datatype="html">
+        <source>Coverage Limit of Indemnity</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/coverage-labels.ts</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.coverage.coverage-deductible-title" datatype="html">
+        <source>Coverage Deductible</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/coverage-labels.ts</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.coverage.coverage-name" datatype="html">
+        <source>Coverage Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/coverage-labels.ts</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.coverage.coverage-geographical-scope" datatype="html">
+        <source>Coverage Geographical Scope</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/coverage-labels.ts</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.coverage.coverage-perils" datatype="html">
+        <source>Coverage Perils</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/coverage-labels.ts</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.coverage.coverage-terms-of-applicability-limit-amount" datatype="html">
+        <source>Limit Amount</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/coverage-labels.ts</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.coverage.coverage-terms-of-applicability-deductible-amount" datatype="html">
+        <source>Deductible Amount</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/coverage-labels.ts</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.document.created-at" datatype="html">
+        <source>Uploaded on</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/document-labels.ts</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.document.owner" datatype="html">
+        <source>Uploaded by</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/document-labels.ts</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.document.name" datatype="html">
+        <source>Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/document-labels.ts</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.document.status-label" datatype="html">
+        <source>Status</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/document-labels.ts</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.document.type" datatype="html">
+        <source>Document Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/document-labels.ts</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.parties.title" datatype="html">
+        <source>Parties</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/party-labels.ts</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.parties.sub-title" datatype="html">
+        <source>Add the details of the parties involved in this insurance binder</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/party-labels.ts</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.parties.insurance-company" datatype="html">
+        <source>Insurance Company</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/party-labels.ts</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.parties.binder-holder" datatype="html">
+        <source>Binder Holder</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/party-labels.ts</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-binder.title" datatype="html">
+        <source>Insurance Plan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-binder-labels.ts</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-binder.sub-title" datatype="html">
+        <source>Select an operational Binder</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-binder-labels.ts</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-binder.change-binder-title" datatype="html">
+        <source>Confirm Insurance Plan Change</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-binder-labels.ts</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-binder.change-binder-content" datatype="html">
+        <source>By changing the selected insurance plan, all the associated fields will be updated on the new selection. Do you wish to continue?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-binder-labels.ts</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-binder.inception-date" datatype="html">
+        <source>Inception Date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-binder-labels.ts</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-binder.expiration-date" datatype="html">
+        <source>Expiration Date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-binder-labels.ts</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-binder.sections" datatype="html">
+        <source>Sections</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-binder-labels.ts</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-binder.insurance-plan" datatype="html">
+        <source>Insurance Plan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-binder-labels.ts</context>
+          <context context-type="linenumber">14,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-binder.operating-location" datatype="html">
+        <source>Issued Country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-binder-labels.ts</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-compliance-popup.title" datatype="html">
+        <source>User Agreement for Policy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-compliance-labels.ts</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-compliance-popup.sub-title" datatype="html">
+        <source>Please review the contract terms carefully before you (“You”) check the box and click the below “Submit” button.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-compliance-labels.ts</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-compliance-popup.application-agreement-compliance" datatype="html">
+        <source>By checking the box and clicking the below “Submit” button on behalf of Your Client (“Policy Holder“), the “Policy Holder“ agrees to enter into and is bound by the contract as negotiated over this application with the Insurer company, which constitutes the legally binding and validly signed instrument between the parties.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-compliance-labels.ts</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-compliance-popup.digital-information-compliance" datatype="html">
+        <source>By checking the box and clicking the below “Submit” button, the “Policy Holder“and You, represent that You have the authority to enter into the contract on behalf of the “Policy Holder“ and that the “Policy Holder“ will digitally receive the contract information.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-compliance-labels.ts</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.address-info.title" datatype="html">
+        <source>Address Info</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.address-info.city" datatype="html">
+        <source>City</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.address-info.country" datatype="html">
+        <source>Country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.address-info.postal-code" datatype="html">
+        <source>Postal Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.address-info.region" datatype="html">
+        <source>Region (Province, Canton)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.address-info.street-name" datatype="html">
+        <source>Street Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.address-info.street-number" datatype="html">
+        <source>Street Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.contact-info.title" datatype="html">
+        <source>Contact Info</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.contact-info.email-address" datatype="html">
+        <source>Email Address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.contact-info.iban" datatype="html">
+        <source>IBAN</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.contact-info.phone-number" datatype="html">
+        <source>Phone Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.personal-info.title" datatype="html">
+        <source>Personal Info</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">25,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.personal-info.birth-date" datatype="html">
+        <source>Birth Date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.personal-info.first-name" datatype="html">
+        <source>First Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">29,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.personal-info.last-name" datatype="html">
+        <source>Last Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.personal-info.middle-name" datatype="html">
+        <source>Middle Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">31,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.car-owner-personal-info.title" datatype="html">
+        <source>Car Owner Personal Info</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">35,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.company-info.title" datatype="html">
+        <source>Company Info</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">49,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.company-info.chamber-of-commerce" datatype="html">
+        <source>Chamber of Commerce</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">58,59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.company-info.company-name" datatype="html">
+        <source>Company Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">59,60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.company-info.subject-to-vat" datatype="html">
+        <source>Subject To VAT Discount</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">60,61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.driver-insurance-and-claim-info.title" datatype="html">
+        <source>Driver&apos;s Insurance and Claim History</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">64,66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.driver-insurance-and-claim-info.claims-last-five-years" datatype="html">
+        <source>Claim in past 5 years</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.driver-insurance-and-claim-info.criminal-offence-indicator" datatype="html">
+        <source>Criminal offence indicator</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.driver-insurance-and-claim-info.damage-free-years" datatype="html">
+        <source>Damage Free Years</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">69,70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.driver-insurance-and-claim-info.refusal-last-four-years" datatype="html">
+        <source>Insurance refusal / Cancellation in last 4 years</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">70,71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.driver-personal-info.title" datatype="html">
+        <source>Driver Personal Info</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">74,76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.title" datatype="html">
+        <source>Policy Holder Details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">86,87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.sub-title" datatype="html">
+        <source>Personal details of the policy holder</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">87,89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.is-driver-different-than-car-owner-label" datatype="html">
+        <source>Different driver than car owner</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">102,103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-holder.policy-holder-type-label" datatype="html">
+        <source>Policy Holder Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-holder-labels.ts</context>
+          <context context-type="linenumber">103,104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.title" datatype="html">
+        <source>Policy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-labels.ts</context>
+          <context context-type="linenumber">13,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.plural-title" datatype="html">
+        <source>Policies</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-labels.ts</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.insurer-contract-reference" datatype="html">
+        <source>External Policy Reference</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-labels.ts</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.id" datatype="html">
+        <source>Policy Id</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-labels.ts</context>
+          <context context-type="linenumber">57,58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-termination-popup.title" datatype="html">
+        <source>Terminate Policy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-termination-labels.ts</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-termination-popup.sub-title" datatype="html">
+        <source>Specify the date of termination to proceed with the process. Once terminated it cannot be reactivated.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-termination-labels.ts</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-termination-popup.future-date-warning-line1" datatype="html">
+        <source>You have selected a termination date in the future. Please be aware that a flow for this case is not implemented in this version and, by continuing, the policy will immediately be set to status “Terminated” even though the expiration date is in the future and no actions like endorsements can be done on the policy.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-termination-labels.ts</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-termination-popup.future-date-warning-line2" datatype="html">
+        <source>For the accuracy of the data, it is advisable to wait and perform the Terminate action on the exact Termination date.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-termination-labels.ts</context>
+          <context context-type="linenumber">6,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-termination-popup.termination-date" datatype="html">
+        <source>Termination Date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-termination-labels.ts</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.policy-termination-popup.termination-reason" datatype="html">
+        <source>Reason</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/policy-termination-labels.ts</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.premium.title" datatype="html">
+        <source>Section Premium (on a monthly basis)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/premium-labels.ts</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.premium.section-premium-amount" datatype="html">
+        <source>Section Premium Amount</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/premium-labels.ts</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.premium.premium-amount" datatype="html">
+        <source>Premium Amount</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/premium-labels.ts</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.premium.taxes" datatype="html">
+        <source>Taxes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/premium-labels.ts</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.premium-summary.title" datatype="html">
+        <source>Monthly Premium Summary</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/premium-summary-labels.ts</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.premium-summary.sub-title" datatype="html">
+        <source>Premiums Summary based on the premiums added in coverages sections and applicable discounts</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/premium-summary-labels.ts</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.premium-summary.final-premium" datatype="html">
+        <source>Final Premium [Including Taxes]</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/premium-summary-labels.ts</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.premium-summary.policy-premium" datatype="html">
+        <source>Policy Net Premium</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/premium-summary-labels.ts</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.premium-summary.policy-taxes" datatype="html">
+        <source>Policy Taxes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/premium-summary-labels.ts</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.section.title" datatype="html">
+        <source>Sections and Coverages</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/section-labels.ts</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.section.sub-title" datatype="html">
+        <source>Coverages for the sections selected</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/section-labels.ts</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.delete-coverage-title" datatype="html">
+        <source>Confirm Delete Coverage</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/section-labels.ts</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.general-info.delete-coverage-content" datatype="html">
+        <source>You are about to delete a coverage. You can&apos;t undo this action. Do you wish to continue?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/section-labels.ts</context>
+          <context context-type="linenumber">9,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="binder.form.section.section-name" datatype="html">
+        <source>Section Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/section-labels.ts</context>
+          <context context-type="linenumber">12,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.vehicles.tile" datatype="html">
+        <source>Vehicle Details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/vehicle-labels.ts</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.vehicles.sub-tile" datatype="html">
+        <source>Details of the vehicle to be insured</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/vehicle-labels.ts</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.vehicles.license-plate" datatype="html">
+        <source>License Plate</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/vehicle-labels.ts</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.vehicles.manufacturer-date" datatype="html">
+        <source>Date of Manufacture</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/vehicle-labels.ts</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.vehicles.vehicle-identification-number" datatype="html">
+        <source>Vehicle Identification Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/vehicle-labels.ts</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.vehicles.brand" datatype="html">
+        <source>Brand</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/vehicle-labels.ts</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.vehicles.model" datatype="html">
+        <source>Model</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/vehicle-labels.ts</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.vehicles.purchase-value" datatype="html">
+        <source>Purchase Value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/vehicle-labels.ts</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.form.vehicles.usage" datatype="html">
+        <source>Usage Of The Car</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/forms-lib/src/lib/forms/i18n-form-labels/vehicle-labels.ts</context>
+          <context context-type="linenumber">13,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.landing.export-button" datatype="html">
+        <source> Export Policies </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/components/pages/policy-landing-page/policy-landing-page.component.ts</context>
+          <context context-type="linenumber">46,57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.landing.create-button" datatype="html">
+        <source> +Add a new Policy </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/components/pages/policy-landing-page/policy-landing-page.component.ts</context>
+          <context context-type="linenumber">73,76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-data-created-successfully" datatype="html">
+        <source>Policy data created successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-data-updated-successfully" datatype="html">
+        <source>Policy data updated successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">56,57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">122,123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-data-submitted-successfully" datatype="html">
+        <source>Policy data submitted successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-accepted-successfully" datatype="html">
+        <source>Policy accepted successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">88,89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-issued-successfully" datatype="html">
+        <source>Policy issued successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">99,100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-cancelled-successfully" datatype="html">
+        <source>Policy cancelled successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">111,112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-declined-successfully" datatype="html">
+        <source>Policy declined successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">133,134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-terminated-successfully" datatype="html">
+        <source>Policy terminated successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">144,145</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-endorsed-successfully" datatype="html">
+        <source>Policy endorsed successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">157,158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-endorsement-accepted-successfully" datatype="html">
+        <source>Policy endorsement accepted successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">170,171</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-endorsement-declined-successfully" datatype="html">
+        <source>Policy endorsement declined successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">183,184</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-endorsed-by-other-party" datatype="html">
+        <source>Policy endorsed by other party</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">197,198</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-endorsement-accepted-or-declined-by-other-party" datatype="html">
+        <source>Policy endorsement accepted or declined by other party</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">212,213</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="policy.notification-message.policy-duplicated-successfully" datatype="html">
+        <source>Policy duplicated successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">libs/policy-lib/src/lib/store/policy-lib.effects.ts</context>
+          <context context-type="linenumber">228,229</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.about-dialog.title" datatype="html">
+        <source>About <x id="INTERPOLATION" equiv-text="{{ config?.titl"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/about/widgets/about-dialog.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.about-dialog.version" datatype="html">
+        <source>Version:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/about/widgets/about-dialog.component.html</context>
+          <context context-type="linenumber">10,14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.about-dialog.ui-build-number" datatype="html">
+        <source>UI build number:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/about/widgets/about-dialog.component.html</context>
+          <context context-type="linenumber">14,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.about-dialog.api-build-number" datatype="html">
+        <source>API build number:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/about/widgets/about-dialog.component.html</context>
+          <context context-type="linenumber">24,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.about-dialog.close-button" datatype="html">
+        <source> close </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/about/widgets/about-dialog.component.html</context>
+          <context context-type="linenumber">39,42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.title" datatype="html">
+        <source> Upload File
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-dialog.component.html</context>
+          <context context-type="linenumber">2,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.cancel-button" datatype="html">
+        <source> Cancel </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-dialog.component.html</context>
+          <context context-type="linenumber">22,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.upload-button" datatype="html">
+        <source> Upload </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-dialog.component.html</context>
+          <context context-type="linenumber">33,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.result-message" datatype="html">
+        <source>File(s) successfully uploaded to azure storage.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-dialog.component.ts</context>
+          <context context-type="linenumber">117,120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.confirm-title" datatype="html">
+        <source>Do you want to cancel the upload?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-dialog.component.ts</context>
+          <context context-type="linenumber">128,131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.message-text" datatype="html">
+        <source>Message text</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-form/large-files-upload-file-form.config.ts</context>
+          <context context-type="linenumber">30,32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.select-files" datatype="html">
+        <source>Click here to select files. You can also drop files here.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-form/large-files-upload-file-form.config.ts</context>
+          <context context-type="linenumber">37,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.select-files-hint" datatype="html">
+        <source>&apos;Maximum upload file size: 10GB</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-form/large-files-upload-file-form.config.ts</context>
+          <context context-type="linenumber">40,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.validation-message.required-files" datatype="html">
+        <source>This is required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-form/large-files-upload-file-form.config.ts</context>
+          <context context-type="linenumber">43,44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-dialog.validation-message.file-max-size" datatype="html">
+        <source>Unable to upload, the file is exceeding the maximum file size of 10GB</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/components/large-files-upload-file-dialog/large-files-upload-file-form/large-files-upload-file-form.config.ts</context>
+          <context context-type="linenumber">44,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-name.download-button-title" datatype="html">
+        <source>Download file</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-name/large-file-name.component.html</context>
+          <context context-type="linenumber">12,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.preparing" datatype="html">
+        <source> preparing... </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">13,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.done" datatype="html">
+        <source> done </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">23,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.cancelled" datatype="html">
+        <source> cancelled </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">30,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.failed" datatype="html">
+        <source> failed </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">37,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.close-button-title" datatype="html">
+        <source>Cancel upload</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">61,67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.large-file-upload-progress.close-button" datatype="html">
+        <source>close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/files/widgets/large-file-upload-progress/large-file-upload-progress.component.html</context>
+          <context context-type="linenumber">63,67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.pinnable-table-column-header.toggle-pin-button" datatype="html">
+        <source>Pin or unpin this column</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/pinnable-table-column-header/pinnable-table-column-header.component.html</context>
+          <context context-type="linenumber">9,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.state-change-record-overview.submitted-on" datatype="html">
+        <source>Submitted on: </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/state-change-record-overview/state-change-record-overview.component.html</context>
+          <context context-type="linenumber">17,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.state-change-record-overview.submitted-by" datatype="html">
+        <source>Submitted by: </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/state-change-record-overview/state-change-record-overview.component.html</context>
+          <context context-type="linenumber">21,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.table-column-hiding.columns-button" datatype="html">
+        <source>Columns</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/table-column-hiding/table-column-hiding.component.html</context>
+          <context context-type="linenumber">4,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.table-column-hiding.column-hiding-header" datatype="html">
+        <source> Column Hiding </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/table-column-hiding/table-column-hiding.component.html</context>
+          <context context-type="linenumber">25,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.table-column-hiding.hide-all-button" datatype="html">
+        <source> Hide all </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/table-column-hiding/table-column-hiding.component.html</context>
+          <context context-type="linenumber">33,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.fluid-lib.table-column-hiding.show-all-button" datatype="html">
+        <source> Show all </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-fluid-lib/src/lib/fluid-widgets/widgets/table-column-hiding/table-column-hiding.component.html</context>
+          <context context-type="linenumber">36,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.form-field.multi-select.filter" datatype="html">
+        <source>Filter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/b3i-forms/form-fields/multi-level-select-form-field/ngx-treeview/components/treeview/treeview.component.html</context>
+          <context context-type="linenumber">12,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.form-field.multi-select.no-items-found" datatype="html">
+        <source> No items found
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/b3i-forms/form-fields/multi-level-select-form-field/ngx-treeview/components/treeview/treeview.component.html</context>
+          <context context-type="linenumber">42,44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.confirm-dialog.yes" datatype="html">
+        <source>Yes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/confirm-dialog/confirm-dialog.component.ts</context>
+          <context context-type="linenumber">97,98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.confirm-dialog.no" datatype="html">
+        <source>No</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/confirm-dialog/confirm-dialog.component.ts</context>
+          <context context-type="linenumber">100,101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree-badge.updated" datatype="html">
+        <source>updated</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-badge/diff-tree-badge.component.ts</context>
+          <context context-type="linenumber">41,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree-badge.deleted" datatype="html">
+        <source>deleted</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-badge/diff-tree-badge.component.ts</context>
+          <context context-type="linenumber">43,45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree-badge.added" datatype="html">
+        <source>added</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-badge/diff-tree-badge.component.ts</context>
+          <context context-type="linenumber">45,47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree-badge.none" datatype="html">
+        <source>none</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-badge/diff-tree-badge.component.ts</context>
+          <context context-type="linenumber">47,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree.removed" datatype="html">
+        <source>Removed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-expanded-popup/diff-tree-expanded-popup.component.html</context>
+          <context context-type="linenumber">32,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.diff-tree.added" datatype="html">
+        <source>Added</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/diff-tree/diff-tree-expanded-popup/diff-tree-expanded-popup.component.html</context>
+          <context context-type="linenumber">33,38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.filter-field.filter" datatype="html">
+        <source>Filter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/filter/filter-field.component.ts</context>
+          <context context-type="linenumber">37,42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.indicator-icon.pending-tasks" datatype="html">
+        <source>Pending tasks</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/indicator-icon/indicator-icon.component.ts</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.indicator-icon.unread-messages" datatype="html">
+        <source>Unread messages</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/indicator-icon/indicator-icon.component.ts</context>
+          <context context-type="linenumber">50,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.id-with-copy-to-clipboard.copy-id-to-clipboard" datatype="html">
+        <source>Copy id to clipboard</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/misc-widgets/id-with-copy-to-clipboard/id-with-copy-to-clipboard.component.html</context>
+          <context context-type="linenumber">19,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.id-with-copy-to-clipboard.id-is-copied" datatype="html">
+        <source>ID is copied</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/misc-widgets/id-with-copy-to-clipboard/id-with-copy-to-clipboard.component.ts</context>
+          <context context-type="linenumber">29,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.timezone.round-the-clock" datatype="html">
+        <source>Round the Clock</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/timezone/utils/timezone-utils.ts</context>
+          <context context-type="linenumber">10,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.duration-unit.days" datatype="html">
+        <source>Days</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/utils/duration-helper.ts</context>
+          <context context-type="linenumber">24,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.duration-unit.weeks" datatype="html">
+        <source>Weeks</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/utils/duration-helper.ts</context>
+          <context context-type="linenumber">26,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.duration-unit.months" datatype="html">
+        <source>Months</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/utils/duration-helper.ts</context>
+          <context context-type="linenumber">28,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3i.ui.duration-unit.years" datatype="html">
+        <source>Years</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/projects/b3i-ui-lib/src/lib/utils/duration-helper.ts</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
