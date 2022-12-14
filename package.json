@@ -1,16 +1,16 @@
 {
     "name": "filter-xlf",
-    "version": "1.0.0",
-    "description": "Node commandline util to filter XLF files using XPath. Supports filtering on attribute values",
-    "main": "filter-xlf.ts",
+    "version": "1.0.2",
+    "description": "Node command line util to filter XLF files using XPath. Supports filtering on attribute values",
+    "main": "index.ts",
     "bin": {
-        "filter-xlf": "filter-xlf.js"
+        "filter-xlf": "index.ts"
     },
     "scripts": {
-        "start": "ts-node filter-xlf  -id !b3i -s ./src/assets/i18n/source.xlf -t ./src/assets/i18n/target.xlf",
-        "build": "tsc && cp package.json dist/package.json && cp README.md dist/README.md",
+        "start": "ts-node index  -id !lib -s ./src/assets/i18n/source.xlf -t ./src/assets/i18n/target.xlf",
         "test": "jest",
-        "jest": "jest"
+        "jest": "jest",
+        "publish": "npm publish --access public"
     },
     "repository": {
         "type": "git",
@@ -19,7 +19,9 @@
     "keywords": [
         "node",
         "util",
-        "xlf"
+        "filter",
+        "xlf",
+        "i18n"
     ],
     "author": "Ad Reijngoudt",
     "license": "ISC",

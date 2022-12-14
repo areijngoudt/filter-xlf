@@ -1,12 +1,10 @@
 {
     "compilerOptions": {
-        "baseUrl": "./",
-        "outDir": "./dist/",
         "target": "es6",
         "module": "commonjs",
         "sourceMap": true,
         "lib": ["dom"]
     },
     "typeRoots": ["node_modules/@types"],
-    "include": ["./src/**/*.ts", "filter-xlf.ts"]
+    "include": ["./src/**/*.ts", "index.ts"]
 }

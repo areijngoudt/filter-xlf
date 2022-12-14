@@ -1,9 +1,7 @@
-#!/usr/bin/env node
-
 import { program } from 'commander';
 import { readFileSync } from 'fs';
 import { outputFileSync } from 'fs-extra';
-import { FilterUtils } from './src/utils/filter-utils';
+import { FilterUtils } from './utils/filter-utils';
 
 const namespaces = { ns: 'urn:oasis:names:tc:xliff:document:1.2' };
 
@@ -28,14 +26,14 @@ export namespace FilterXlf {
         // read file
         const sourceFileContent = readFileSync(sourceFile, 'utf-8');
 
-        // build xpath filter
+        // build xpath filter - turn the ! operator around
         // idStartsWith    xpathFilterPattern
-        // `b3i`           `//ns:trans-unit[(starts-with(@id, "b3i"))]`
-        // `!b3i`          `//ns:trans-unit[not(starts-with(@id, "b3i"))]`
-        // nodes which are selected by the pattern are filtered out
-        let notPrefix = '';
+        // `b3i`           `//ns:trans-unit[not(starts-with(@id, "b3i"))]`
+        // `!b3i`          `//ns:trans-unit[(starts-with(@id, "b3i"))]`
+        // nodes which are selected by the xpathFilterPattern are filtered out
+        let notPrefix = 'not';
         if (idStartsWith.startsWith('!')) {
-            notPrefix = 'not';
+            notPrefix = '';
             idStartsWith = idStartsWith.substring(1);
         }
         const xpathFilterPattern = `//ns:trans-unit[${notPrefix}(starts-with(@id, "${idStartsWith}"))]`;
@@ -47,5 +45,3 @@ export namespace FilterXlf {
         outputFileSync(targetFile, targetFileContent);
     }
 }
-
-FilterXlf.main(process.argv);
