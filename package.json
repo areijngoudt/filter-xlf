@@ -1,6 +1,6 @@
 {
     "name": "filter-xlf",
-    "version": "1.0.2",
+    "version": "1.0.7",
     "description": "Node command line util to filter XLF files using XPath. Supports filtering on attribute values",
     "main": "index.ts",
     "bin": {
