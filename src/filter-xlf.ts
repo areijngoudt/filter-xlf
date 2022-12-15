@@ -23,6 +23,9 @@ export namespace FilterXlf {
     }
 
     function execFilterAction(idStartsWith: string, sourceFile: string, targetFile: string): void {
+        console.log('idStartsWith', idStartsWith);
+        console.log('sourceFile', sourceFile);
+        console.log('targetFile', targetFile);
         // read file
         const sourceFileContent = readFileSync(sourceFile, 'utf-8');
 
@@ -37,7 +40,7 @@ export namespace FilterXlf {
             idStartsWith = idStartsWith.substring(1);
         }
         const xpathFilterPattern = `//ns:trans-unit[${notPrefix}(starts-with(@id, "${idStartsWith}"))]`;
-        console.log({ idStartsWith, sourceFile, targetFile, xpathFilterPattern, namespaces });
+        console.log({ namespaces, xpathFilterPattern });
         // apply filter
         const targetFileContent = FilterUtils.applyXPathFilter(sourceFileContent, xpathFilterPattern, namespaces);
 

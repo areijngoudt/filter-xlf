@@ -7,7 +7,7 @@
         "filter-xlf": "index.ts"
     },
     "scripts": {
-        "start": "ts-node index  -id !lib -s ./src/assets/i18n/source.xlf -t ./src/assets/i18n/target.xlf",
+        "start": "ts-node index  -id !validation -s ./src/assets/i18n/source.xlf -t ./src/assets/i18n/target.xlf",
         "test": "jest",
         "jest": "jest",
         "publish": "npm publish --access public"
